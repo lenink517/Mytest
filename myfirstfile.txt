@@ -1,5 +1,5 @@
 This is my first file. 
 adding second line....
 
-adding one more line from mybranch1 to test mergeconflict
+adding one more line from mybranch2 to test mergeconflict
 adding one more line from mybranch1 for testing merge
