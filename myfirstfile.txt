@@ -2,7 +2,10 @@ This is my first file.
 adding second line....
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 xxxxxxxxxxxxxxxxadding one more line from mybranch2 to test mergeconflict
+=======
+>>>>>>> mybranch1
 =======
 >>>>>>> mybranch1
 adding one more line from mybranch1 for testing merge
